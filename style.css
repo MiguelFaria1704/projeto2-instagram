@@ -329,6 +329,7 @@ textarea:focus, input:focus {
     width: auto;
     color: #B2DFFC;
     cursor: pointer;
+    font-weight: 600;
     transition: color 300ms;
 }
 
